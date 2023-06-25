@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\abram\source\repos\Platformer\Code\Main.cpp(47,20): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\abram\source\repos\Platformer\Code\Main.cpp(123,31): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\abram\source\repos\Platformer\Code\Main.cpp(127,19): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Platformer.vcxproj -> C:\Users\abram\source\repos\Platformer\Code\x64\Debug\Platformer.exe

@@ -1,0 +1,33 @@
+﻿  Animation.cpp
+C:\Users\abram\source\repos\Platformer\Animation.cpp(28,25): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Background.cpp
+C:\Users\abram\source\repos\Platformer\Background.cpp(17,44): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\abram\source\repos\Platformer\Background.cpp(18,45): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\abram\source\repos\Platformer\Background.cpp(30,59): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\abram\source\repos\Platformer\Background.cpp(30,52): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\abram\source\repos\Platformer\Background.cpp(30,49): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\abram\source\repos\Platformer\Background.cpp(30,46): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\abram\source\repos\Platformer\Background.cpp(57,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Hero.cpp
+C:\Users\abram\source\repos\Platformer\Hero.cpp(61,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abram\source\repos\Platformer\Hero.cpp(84,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abram\source\repos\Platformer\Hero.cpp(98,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+  Generating Code...
+  Platformer.vcxproj -> C:\Users\abram\source\repos\Platformer\x64\Debug\Platformer.exe
